@@ -425,14 +425,18 @@
         margin-top: 20px;
         margin-bottom: 25px;
     }
-
-.o5{
+.disclaimer{
+    padding:10px;
+    width:700px;
+    margin-top:50px;
+    margin-left:0px;
+    margin-bottom:0px;
+}
+    
+.disclaimer o5{
 font-size:10px;
 font-family: 'DM Sans Bold', sans-serif;
 text-align: left;
-margin-top: 50px;
-margin-bottom: 0px;
-    margin-left:0px;
 
 }
     .text-tes-left {
@@ -1054,11 +1058,19 @@ img {
         margin-top: 20px;
         margin-bottom: 25px;
     }
-        .o5{
-    margin-left: 0px;
-    font-size: 0.7em;
+  .disclaimer{
+    padding:10px;
+    width:700px;
     margin-top: 5em;
-
+        margin-left: 0px;
+      margin-bottom:0px;
+}
+    
+.disclaimer o5{
+  margin-left: 0px;
+    font-size: 0.7em;
+    text-align:left;
+    margin-top: 5em;
 }
     
     .modal {
