@@ -89,13 +89,13 @@
     }
     
         .button-and-image {
-     display: flex;
-    align-items: center;
-    margin-top: 20px;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    align-content: center;
-    justify-content: flex-start;
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+            flex-direction: row;
+            flex-wrap: nowrap;
+            align-content: center;
+            justify-content: center;
     }
     
     .button1 {
@@ -141,7 +141,7 @@
     background-color: #E5F6F4;
     padding: 2em;
     margin-top: -0.5px;
-    justify-content: space-evenly;
+    justify-content: center;
     width: -webkit-fill-available;
     flex-wrap: nowrap;
     flex-direction: row;
@@ -158,27 +158,27 @@
     }
     
     .text-box {
-    width: 47em;
+    width: 80em;
     }
     
     .text-box h1 {
       font-size: 3em;
     font-family: 'DM Sans Bold', sans-serif;
     font-weight: bold;
-    text-align: left;
+    text-align: center;
     width: auto;
     }
     
     .text-box p {
      font-size: 1.3em;
     width: auto;
-    text-align: left;
+    text-align: center;
     }
     .text-box p1 {
         font-size: 20px;
         margin: 10px 0;
             width: 350px;
-        text-align: left;
+        text-align: center;
     }
     .text-box mh1 {
         font-size: 56px;
@@ -208,7 +208,7 @@
     align-items: center;
     background-color: #FFFFFF;
     padding: 20px;
-    height: 24em;
+    height: 26em;
     align-content: center;
     flex-wrap: nowrap;
     flex-direction: row;
@@ -231,6 +231,7 @@
     .text-body {
       padding: 30px;
     width: 566px;
+    min-height: 290px;
     }
     
     .text-body h2 {
