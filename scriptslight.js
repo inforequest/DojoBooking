@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
             calendlyModal.classList.remove('fade-out');
         });
     } else {
-        console.log('Button1 not found');
+        console.log('Button2 not found');
     }
 
     window.addEventListener('click', function(event) {
