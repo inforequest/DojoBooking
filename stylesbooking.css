@@ -403,6 +403,7 @@
     }
     .out-box o1 {
         font-size: 30px;
+        color:white;
         font-family: 'DM Sans Bold', sans-serif;
         font-weight: bold;
         text-align: center;
@@ -412,6 +413,8 @@
 
     .out-box o2 {
         font-size: 20px;
+                color:white;
+
         font-family: 'DM Sans Bold', sans-serif;
         text-align: center;
         margin-top: 20px;
@@ -420,6 +423,8 @@
 
     .out-box o3 {
         font-size: 20px;
+                color:white;
+
         font-family: 'DM Sans Bold', sans-serif;
         text-align: center;
         margin-top: 20px;
@@ -427,6 +432,7 @@
     }
 .disclaimer{
        padding: 10px;
+
     width: 700px;
     margin-top: 55px;
     margin-bottom: -77px;
@@ -435,6 +441,8 @@
     
 .disclaimer o5{
 font-size:10px;
+            color:white;
+
 font-family: 'DM Sans Bold', sans-serif;
 text-align: left;
 
