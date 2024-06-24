@@ -390,8 +390,11 @@
     flex-direction: column;
     align-content: space-around;
     }
-    
-    .o1 {
+    .out-box{
+        padding: 30px;
+        width: 520px;
+    }
+    .out-box o1 {
         font-size: 30px;
         font-family: 'DM Sans Bold', sans-serif;
         font-weight: bold;
@@ -400,7 +403,7 @@
         margin-bottom: 25px;
     }
 
-    .o2 {
+    .out-box o2 {
         font-size: 20px;
         font-family: 'DM Sans Bold', sans-serif;
         text-align: center;
@@ -408,7 +411,7 @@
         margin-bottom: 25px;
     }
 
-    .o3 {
+    .out-box o3 {
         font-size: 20px;
         font-family: 'DM Sans Bold', sans-serif;
         text-align: center;
