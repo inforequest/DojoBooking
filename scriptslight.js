@@ -4,7 +4,9 @@ document.addEventListener('DOMContentLoaded', function() {
     var calendlyModalContent = document.querySelector('#calendlyModal .modal-content');
   var closeModal = document.getElementById('closeModal');
     var button = document.querySelector('.button');
-    var button1 = document.querySelector('.button1');
+    var button1 = document.querySelector('.button1'); 
+    var button2 = document.querySelector('.button2');
+
 
      calendlyModal.style.display = 'none';
     
