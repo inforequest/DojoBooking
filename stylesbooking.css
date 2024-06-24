@@ -723,7 +723,7 @@
         border: none;
         border-radius: 25px;
         padding: 1em 2em;
-        font-size: 1.5em;
+        font-size: 1em;
         cursor: pointer;
         font-weight: bold;
         text-align: center;
@@ -1011,6 +1011,40 @@ img {
         font-size: 1.25em;
         margin-top: 0;
         text-align: left;
+    }
+
+         .out-box{
+    
+        display: flex;
+        align-content: center;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .out-box o1 {
+        font-size: 1.5em;
+        font-family: 'DM Sans Bold', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .out-box o2 {
+        font-size: 1em;
+        font-family: 'DM Sans Bold', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .out-box o3 {
+        font-size: 1emx;
+        font-family: 'DM Sans Bold', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
     }
     
     .modal {
