@@ -43,6 +43,16 @@ document.addEventListener('DOMContentLoaded', function() {
         console.log('Button1 not found');
     }
 
+      if (button2) {
+        button1.addEventListener('click', function() {
+            calendlyModal.style.display = 'block';
+            calendlyModalContent.classList.remove('float-out');
+            calendlyModal.classList.remove('fade-out');
+        });
+    } else {
+        console.log('Button1 not found');
+    }
+
     window.addEventListener('click', function(event) {
         if (event.target === calendlyModal) {
             calendlyModal.style.display = 'none';
