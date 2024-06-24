@@ -231,7 +231,7 @@
     .text-body {
       padding: 30px;
     width: 566px;
-    min-height: 290px;
+
     }
     
     .text-body h2 {
@@ -251,7 +251,7 @@
     }
     
     .text-body-low {
-        min-height: 500px;
+     
         padding: 30px;
         width: 520px;
     }
@@ -391,6 +391,32 @@
     align-content: space-around;
     }
     
+    .o1 {
+        font-size: 30px;
+        font-family: 'DM Sans Bold', sans-serif;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .o2 {
+        font-size: 20px;
+        font-family: 'DM Sans Bold', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+    .o3 {
+        font-size: 20px;
+        font-family: 'DM Sans Bold', sans-serif;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 25px;
+    }
+
+
     .text-tes-left {
       padding: 15px;
     width: 371px;
