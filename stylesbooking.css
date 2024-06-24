@@ -426,7 +426,14 @@
         margin-bottom: 25px;
     }
 
+.out-box o5{
+font-size:10px;
+font-family: 'DM Sans Bold', sans-serif;
+text-align: left;
+margin-top: 50px;
+margin-bottom: 0px;
 
+}
     .text-tes-left {
       padding: 15px;
     width: 371px;
@@ -1046,6 +1053,14 @@ img {
         margin-top: 20px;
         margin-bottom: 25px;
     }
+        .out-box o5{
+font-size:0.3em;
+font-family: 'DM Sans Bold', sans-serif;
+text-align: left;
+margin-top: 50px;
+margin-bottom: 0px;
+
+}
     
     .modal {
         display: none;
