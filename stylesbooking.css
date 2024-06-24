@@ -426,11 +426,11 @@
         margin-bottom: 25px;
     }
 .disclaimer{
-    padding:10px;
-    width:700px;
-    margin-top:50px;
-    margin-left:0px;
-    margin-bottom:0px;
+       padding: 10px;
+    width: 700px;
+    margin-top: 55px;
+    margin-bottom: -77px;
+    margin-right: 600px;
 }
     
 .disclaimer o5{
@@ -1060,10 +1060,10 @@ img {
     }
   .disclaimer{
     padding:10px;
-    width:700px;
+    width:auto;
     margin-top: 5em;
         margin-left: 0px;
-      margin-bottom:0px;
+      margin-bottom:-30px;
 }
     
 .disclaimer o5{
