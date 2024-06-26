@@ -72,14 +72,13 @@
     color: black;
     display: none !important;
 }
-      .close-modal {
-    font-size: 4em;
+  .close-modal {
+    font-size: 3em;
     cursor: pointer;
     color: black;
-    position: absolute;
-    margin-top: -0.5em;
     z-index: 1000;
-    margin-right: -10em;
+    position: relative;
+    margin-left: auto;
 }
     
     .trustpilot {
@@ -535,8 +534,8 @@ text-align: left;
     }
         
     /* Modal Styles */
-    .modal {
-        display: none;
+   .modal {
+        display: block;
         position: fixed;
         z-index: 1000;
         left: 0;
@@ -1104,8 +1103,8 @@ img {
         font-weight: bold;
         margin-left: -2em;
     }
-    .modal {
-        display: none;
+  .modal {
+        display: block;
         position: fixed;
         z-index: 1000;
         left: 0;
@@ -1148,11 +1147,13 @@ img {
         text-align: center;
         margin-bottom:1em;
     }
-           .close-modal {
+
+         .close-modal {
            font-size: 3em;
     cursor: pointer;
     color: black;
-        }
+    display: relative;
+    }
         
     @keyframes fadeIn {
         to {
