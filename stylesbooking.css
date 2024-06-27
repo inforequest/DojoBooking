@@ -65,6 +65,18 @@
         font-weight: bold;
         margin-bottom:20px;
     }
+
+    .conbutton {
+        background-color: #FFB100;
+        color: black;
+        border: none;
+        font-size: 15px;
+        padding: 10px 25px;
+        border-radius: 10px;
+        cursor: pointer;
+        font-weight: bold;
+        margin-bottom:20px;
+    }
     
 .hamburger-menu, .close-menu {
     font-size: 2em;
@@ -861,6 +873,21 @@ text-align: left;
         margin-left: -2em;
     }
     
+    .conbutton {
+        background-color: #FFB100;
+        color: black;
+        border: none;
+        font-size: 1em;
+        border-radius: 25px;
+        width: 13em;
+        margin-bottom: 1em;
+        padding: 0.75em 0.5em;
+        cursor: pointer;
+        font-weight: bold;
+        margin-left: -2em;
+    }
+    
+
     .trustpilot {
         width: 17em;
         height: auto;
