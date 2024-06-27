@@ -651,7 +651,7 @@ text-align: left;
     p, p1, p2, p3, p4, p5 {
         font-weight: 400; /* Regular weight */
     }
-    html, body {
+    html, body,.modal {
       overflow-x: hidden;
     }
     
