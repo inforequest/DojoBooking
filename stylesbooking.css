@@ -1127,6 +1127,10 @@ img {
         background-color: rgba(0, 0, 0, 0.5);
     }
     
+    .calendly-inline-widget{
+        max-width:600px;
+    }
+    
     .button3 {
         background: #00695C;
         border: 0px;
